@@ -7,6 +7,6 @@ entries:
     digest: 1b3323c626304be87c9e667d48da3e871cb828b546893dcb2f348526cccbe02c
     name: mysite
     urls:
-    - https://github.com/shiv0112/flask-example/mysite-0.1.tgz
+    - https://github.com/shiv0112/flask-example/blob/main/mysite-0.1.tgz
     version: "0.1"
 generated: "2021-04-16T09:04:41.991637811Z"
